@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="6.925">
+    <testcase classname="Testing login functionality" name="Verify whether the user can successfully login to SwagLabs with valid credentials" time="6.79">
+        <system-out><![CDATA[Given User is on Google Home page...........................................passed
+And User is navigated to SwagLabs Login page................................passed
+When User enters valid standard_user and secret_sauce.......................passed
+And clicks on LOGIN button..................................................passed
+Then User is navigated to SwagLAbs Home page................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
